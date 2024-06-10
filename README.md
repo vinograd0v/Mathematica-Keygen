@@ -1,5 +1,3 @@
-# Mathematica-Keygen
-
 > [!Warning]
 >This project is an activation key generator for Wolfram Mathematica adapted from the JS script of ibug.io; its use is not promoted in any way.
 
